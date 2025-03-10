@@ -1,5 +1,5 @@
 # mineral_klasifikasi
-Prediksi Mineral Batuan, terdiri dari 7 kelas yang berisi mineral biotite, bornite, chrysocolla, malachite, muscovite, pyrite, dan quartz
+Prediksi Mineral Batuan
 streamlit run app.py
 
 1. Upload Gambar
