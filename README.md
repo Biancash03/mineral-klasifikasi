@@ -1,5 +1,5 @@
 # mineral_klasifikasi
-Prediksi Mineral Batuan
+Prediksi Mineral Batuan, terdiri dari 7 kelas
 streamlit run app.py
 
 1. Upload Gambar
